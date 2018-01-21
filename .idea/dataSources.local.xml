@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - basketball@localhost" uuid="189ddcf8-5ad5-4403-b44f-37b805057df0">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>basketball.*</schema-pattern>
+      <default-schemas>basketball.*</default-schemas>
+    </data-source>
+  </component>
+</project>

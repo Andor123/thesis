@@ -1,0 +1,472 @@
+body {
+    font-family: 'Anton', sans-serif;
+}
+
+.container-fluid > .navbar-header > a > img {
+    width: 75px;
+    height: 75px;
+}
+
+.navbar-default {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ff7f00;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #000000;
+    background-color: #ff7f00;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ff7f00;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #ff7f00;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+
+.main {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("basketball-1442709.jpg");
+    width: 100%;
+}
+
+.main > h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.main > .lead {
+    color: #ffffff;
+}
+
+.main > .btn {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.main > .btn:hover,
+.main > .btn:focus {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.tickets {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("voucher-1423755.jpg");
+    width: 100%;
+}
+
+.tickets > h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.tickets > .lead {
+    color: #ffffff;
+}
+
+.tickets > .btn {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.tickets > .btn:hover,
+.tickets > .btn:focus {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.merchandise {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("otavalo-market-ii-1417859.jpg");
+    width: 100%;
+}
+
+.merchandise > h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.merchandise > .lead {
+    color: #ffffff;
+}
+
+.merchandise > .btn {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.merchandise > .btn:hover,
+.merchandise > .btn:focus {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.services {
+    background-color: #000000;
+    color: #ff7f00;
+    width: 100%;
+}
+
+.services > h1 {
+    text-transform: uppercase;
+}
+
+.services > .btn {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.services > .btn:hover,
+.services > .btn:focus {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.button1 {
+    background-image: url("oru-basketball-1-1479851.jpg");
+    height: 500px;
+    text-align: center;
+}
+
+.button2 {
+    background-image: url("voucher-1423755.jpg");
+    height: 500px;
+    text-align: center;
+}
+
+.button3 {
+    background-image: url("otavalo-market-ii-1417859.jpg");
+    height: 500px;
+    text-align: center;
+}
+
+.button4 {
+    background-image: url("basketball-1442709.jpg");
+    height: 500px;
+    text-align: center;
+}
+
+.btn {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.features {
+    background-color: #000000;
+    color: #ff7f00;
+    text-align: center;
+    width: 100%;
+}
+
+.features > h1 {
+    text-transform: uppercase;
+}
+
+.features > .lead {
+    font-size: 100px;
+}
+
+.features > .btn {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.features > .btn:hover,
+.features > .btn:focus {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.sponsors {
+    text-align: center;
+    width: 100%;
+}
+
+.sponsors > img {
+    width: 100px;
+    height: 100px;
+}
+
+.footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.matches {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("oru-basketball-1-1479851.jpg");
+    width: 100%;
+}
+
+.matches > h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.matchrows > .btn {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.matchrows > .btn:hover,
+.matchrows > .btn:focus {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.ticketorder {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("voucher-1423755.jpg");
+    width: 100%;
+}
+
+.ticketorder > h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.ticketrows > .btn {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.ticketrows > .btn:hover,
+.ticketrows > .btn:focus {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.basketball {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("otavalo-market-ii-1417859.jpg");
+    width: 100%;
+}
+
+.basketball > h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.stuff > img {
+    width: 200px;
+    height: 200px;
+}
+
+.stuff > p {
+    color: #ffffff;
+}
+
+.stuff > .btn {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.stuff > .btn:hover,
+.stuff > .btn:focus {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.comments {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("basketball-1442709.jpg");
+    width: 100%;
+}
+
+.comments > h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.registration {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("tag-1-1571219.jpg");
+    width: 100%;
+}
+
+.registration > h1 {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.registration > form > .form-group > label {
+    color: #000000;
+}
+
+.signin {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("sign-1526288.jpg");
+    width: 100%;
+}
+
+.signin > h1 {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.signin > form > .form-group > label {
+    color: #000000;
+}
+
+.forgotten-password {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("linux-login-1497422.jpg");
+    width: 100%;
+}
+
+.forgotten-password > h1 {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.forgotten-password > form > .form-group > label {
+    color: #000000;
+}
+
+.admin {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("admin-1240187.jpg");
+    width: 100%;
+}
+
+.admin > h1 {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.admin > form > .form-group > label {
+    color: #000000;
+}
+
+.admin_login {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("damned-administration-1501134.jpg");
+    width: 100%;
+}
+
+.admin_login > h1 {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.admin_login > form > .form-group > label {
+    color: #000000;
+}
+
+.form-group > label {
+    color: #ffffff;
+}
+
+.ordering > form > .form-group > label {
+    color: #000000;
+}
+
+.orders {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("damned-administration-1501134.jpg");
+    width: 100%;
+}
+
+.orders > h1 {
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.orders > form > .form-group > label {
+    color: #000000;
+}
+
+.orderrows > .btn {
+    background-color: #000000;
+    color: #ff7f00;
+    border-color: #ff7f00;
+}
+
+.orderrows > .btn:hover,
+.orderrows > .btn:focus {
+    background-color: #ff7f00;
+    color: #000000;
+    border-color: #000000;
+}
+
+.orderrows > table > tbody > tr > td > img {
+    width: 200px;
+    height: 200px;
+}
+
+.cart {
+    padding: 200px 15px;
+    text-align: center;
+    background-image: url("otavalo-market-ii-1417859.jpg");
+    width: 100%;
+}
+
+.cart > h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.cart > h2 {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.cart > p {
+    color: #ffffff;
+}

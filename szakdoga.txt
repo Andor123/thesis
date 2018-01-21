@@ -1,0 +1,12 @@
+Kosárlabda:
+- Adatbázis: admin, users, tickets, merchandise, matches, buyings, comments
+- Fõoldal
+- Eredmények a meccsekrõl
+- Meccs közvetítés élõben
+- Kosárladbás dolgok árúsítása
+- Jegy árúsítás
+- Regisztrálás/bejelentkezés
+- E-mail-es elfogadás
+- Jegy vagy mez vásárlás
+- Admin felület
+- Vásárlás elfogadása hivatkozási számon keresztül
